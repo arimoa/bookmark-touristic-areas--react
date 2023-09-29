@@ -1,4 +1,4 @@
-# Touristic-areas_React
+# touristic-areas_React
 How to use:
 1.Download it
 2.Extract it
@@ -10,10 +10,12 @@ This site consists of two pages. On the first page, the tourist areas of the wor
 ____________________
 Pictures:
 Home Page:
-![Home](https://github.com/arimoa/Touristic-areas_React/assets/134084996/f6b3e32f-b380-430f-a00c-69865b07de55)
+![home](https://github.com/arimoa/touristic-areas_React/assets/134084996/d294fd86-e506-433d-b32a-83cd42023191)
+
 Bookmark page when it is not empty:
-![bookmarkFilled](https://github.com/arimoa/Touristic-areas_React/assets/134084996/4907dec7-275b-444b-9109-467bd9a493d2)
+![bookmarkfilled](https://github.com/arimoa/touristic-areas_React/assets/134084996/0c9d95ea-bc64-4346-8931-822f391cea4c)
+
 Bookmark page when it is empty:
-![bookmarkNotFilled](https://github.com/arimoa/Touristic-areas_React/assets/134084996/30506a8c-6ce4-49a6-8dfc-3290c563d930)
+![bookmarkNotFilled](https://github.com/arimoa/touristic-areas_React/assets/134084996/fb245227-50a6-4c96-8a4a-18a4c4e9357e)
 
 
